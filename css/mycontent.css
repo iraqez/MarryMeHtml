@@ -1,27 +1,30 @@
 /*myconntent.css*/
-#content_board{
+#content_board {
     height: 160px;
     text-align: center;
 }
 
 #leftcontent {
-    width:180px;
-    min-height:700px;
-    float:left;
+    width: 180px;
+    min-height: 700px;
+    float: left;
 }
+
 #mycontent {
-    width:600px;
-    float:left;
+    width: 600px;
+    float: left;
 }
+
 #rightcontent {
     width: 160px;
     float: right;
 }
+
 content {
-    z-index:-2;
-    display:inline-block;
-    float:left;
-    position:relative;
-    margin-top:-35px;
+    z-index: -2;
+    display: inline-block;
+    float: left;
+    position: relative;
+    margin-top: -35px;
     text-align: justify;
 }

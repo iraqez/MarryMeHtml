@@ -40,12 +40,12 @@ body {
 }
 
 header {
-	width:960px;
-	display:block;
+    width: 960px;
+    display: block;
 }
 
 footer {
-	width: 960px;
-	float:right;
+    width: 960px;
+    float: right;
     background-color: #920bc4;
-	}
+}
