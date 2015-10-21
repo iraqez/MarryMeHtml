@@ -13,6 +13,10 @@
     font: bold 12px arial;
 }
 
+footer .menu{
+    border-radius: 4px 4px 0 0;
+}
+
 .menu a {
     display: table-cell;
     text-decoration: none;
@@ -27,6 +31,6 @@
 }
 
 .menu a.hover {
-    color: #;
+    color: #FFFFFF;
     font: bold 14px arial;
 }
