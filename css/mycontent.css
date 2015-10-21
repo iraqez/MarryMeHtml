@@ -6,7 +6,7 @@
 
 #leftcontent {
     width:180px;
-    min-height:500px;
+    min-height:700px;
     float:left;
 }
 #mycontent {
@@ -14,6 +14,7 @@
     float:left;
 }
 #rightcontent {
+    width: 160px;
     float: right;
 }
 content {
