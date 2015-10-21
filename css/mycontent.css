@@ -1,0 +1,26 @@
+/*myconntent.css*/
+#content_board{
+    height: 160px;
+    text-align: center;
+}
+
+#leftcontent {
+    width:180px;
+    min-height:500px;
+    float:left;
+}
+#mycontent {
+    width:600px;
+    float:left;
+}
+#rightcontent {
+    float: right;
+}
+content {
+    z-index:-2;
+    display:inline-block;
+    float:left;
+    position:relative;
+    margin-top:-35px;
+    text-align: justify;
+}
