@@ -7,7 +7,8 @@
 
 .lifted {
     position: relative;
-    max-width: 190px;
+    max-width: 250px;
+/*    max-height: 250px;*/
     padding: 7px;
     /*	margin: 2em 1em 4em;*/
     margin: 1px 1px 1em 1em;
