@@ -16,21 +16,6 @@
     <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <script type="text/javascript">
-
-        $(document).ready(function() {
-            $('.jqzoom').jqzoom({
-                zoomType: 'standard',
-                lens:true,
-                preloadImages: false,
-                alwaysOn:false
-            });
-
-        });
-
-
-    </script>
-
 </head>
 <body>
 <header>
@@ -103,22 +88,31 @@
                     <p>Фата "В первый раз"</p>
                 </div>-->
 
-            <div class="clearfix">
+        <div class="clearfix">
 
-                <a href="img/фата.jpg" class="jqzoom" rel='gal1'  title="triumph1" >
-                    <div class="lifted">
-                        <img src="img/tovar/фата.jpg" width=100% height=100%/>
-                        <p>Фата "В первый раз"</p>
-                    </div>
-                </a>
-            </div>
-            <div class="clearfix" >
-                <ul id="thumblist" class="clearfix" >
-                    <li><a class="zoomThumbActive" href='javascript:void(0);' rel="{gallery: 'gal1', smallimage: 'img/tovar/фата.jpg',largeimage: 'img/tovar/фата.jpg'}"><img src='img/tovar/фата.thumb.jpg'></a></li>
-                   <li><a href='javascript:void(0);' rel="{gallery: 'gal1', smallimage: 'img/tovar/картинка.JPG',largeimage: 'img/tovar/картинка.JPG'}"><img src='img/tovar/картинка.thumb.JPG'></a></li>
-                    <!--   <li><a  href='javascript:void(0);' rel="{gallery: 'gal1', smallimage: './imgProd/triumph_small3.jpg',largeimage: './imgProd/triumph_big3.jpg'}"><img src='imgProd/thumbs/triumph_thumb3.jpg'></a></li>-->
-                </ul>
-            </div>
+            <a href="img/фата.jpg" class="jqzoom" rel='gal1' title="triumph1">
+                <div class="lifted">
+                    <img src="img/tovar/фата.jpg" width=100% height=100%/>
+
+                    <p>Фата "В первый раз"</p>
+                </div>
+            </a>
+        </div>
+        <div class="clearfix">
+            <ul id="thumblist" class="clearfix">
+                <li>
+                    <a class="zoomThumbActive" href='javascript:void(0);'
+                       rel="{gallery: 'gal1', smallimage: 'img/tovar/фата.jpg',largeimage: 'img/tovar/фата.jpg'}">
+                        <img src='img/tovar/фата.thumb.jpg'></a>
+                </li>
+                <li>
+                    <a href='javascript:void(0);'
+                       rel="{gallery: 'gal1', smallimage: 'img/tovar/картинка.JPG', largeimage: 'img/tovar/картинка.JPG'}">
+                        <img src='img/tovar/картинка.thumb.JPG'>
+                    </a>
+                </li>
+            </ul>
+        </div>
         <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam aliquam lacus ipsum, quis pulvinar erat feugiat
             facilisis. Praesent at nisi justo. Nulla faucibus interdum libero sed dapibus. Donec sed lorem tempor,
