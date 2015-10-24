@@ -1,14 +1,14 @@
 @charset "utf-8";
 .lifted p {
-    font-size: 16px;
+    font-size: 12px;
     font-weight: bold;
     text-align: center;
 }
 
 .lifted {
     position: relative;
-    max-width: 200px;
-    padding: 10px;
+    max-width: 190px;
+    padding: 7px;
     /*	margin: 2em 1em 4em;*/
     margin: 1px 1px 1em 1em;
     background: #fff;
@@ -27,7 +27,7 @@
     left: 10px;
     width: 50%;
     height: 10%;
-    max-width: 300px;
+    max-width: 200px;
     -webkit-box-shadow: 0 15px 10px rgba(0, 0, 0, 0.7);
     -moz-box-shadow: 0 15px 10px rgba(0, 0, 0, 0.7);
     box-shadow: 0 15px 10px rgba(0, 0, 0, 0.7);
