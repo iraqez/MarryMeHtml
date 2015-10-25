@@ -5,21 +5,22 @@
 }
 
 #leftcontent {
-    width: 180px;
+    width: 150px;
     min-height: 700px;
     float: left;
-    padding-right: 10px;
+    padding-right: 25px;
 }
 
 #mycontent {
-    width: 600px;
+    width: 630px;
     float: left;
+    /*padding-left: 15px;*/
+    padding-right: 15px;
 }
 
 #rightcontent {
-    width: 160px;
+    width: 130px;
     float: right;
-    padding-left: 10px;
 }
 
 content {

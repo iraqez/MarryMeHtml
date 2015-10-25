@@ -2,7 +2,7 @@
 @import url("http://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.css");
 
 .tabs {
-    min-width: 600px;
+    /*min-width: 600px;*/
     padding: 5px;
     margin: 0 auto;
     background: #fff;
