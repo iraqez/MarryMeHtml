@@ -25,6 +25,8 @@ body {
     max-width: 960px;
     text-align: center;
     margin: auto;
+    font-size: 14px;
+    font-family: "Times New Roman", Times, serif;
 }
 
 #logo {

@@ -8,6 +8,7 @@
     width: 180px;
     min-height: 700px;
     float: left;
+    padding-right: 10px;
 }
 
 #mycontent {
@@ -18,6 +19,7 @@
 #rightcontent {
     width: 160px;
     float: right;
+    padding-left: 10px;
 }
 
 content {
