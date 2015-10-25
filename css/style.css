@@ -1,4 +1,5 @@
 @charset "utf-8";
+
 @import "nav_menu.css";
 @import "search.css";
 @import "menu.css";
@@ -6,6 +7,7 @@
 @import "oformit_zakazcss.css";
 @import "ten_foto.css";
 @import "mycontent.css";
+@import "tabs.css";
 
 @font-face {
     font-family: EkaterinaVelikaya2;
