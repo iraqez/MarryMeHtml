@@ -9,6 +9,9 @@
     min-height: 700px;
     float: left;
     padding-right: 25px;
+    border-right: solid;
+    border-right: #CCC;
+    border-right: 1px;
 }
 
 #tovar {
@@ -23,14 +26,22 @@
 }
 
 .text_tovar {
-    width: 150px;
+    width: 320px;
     float: left;
+}
+
+.text_tovar h1 {
+    color: #920bc4;
+    text-align: center;
+    font-size: 18px;
 }
 
 #mycontent {
     width: 630px;
     float: left;
     padding-right: 15px;
+    padding-right: 25px;
+
 }
 
 #rightcontent {
