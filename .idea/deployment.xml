@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="marry_html" uploadOnCheckin="5ee8a23a-6e6d-4555-ab2e-b2aae980226b">
+  <component name="PublishConfigData" serverName="46.63.24.113:1222" uploadOnCheckin="58595dc6-251b-4bc9-b95d-9b9f589edc37">
     <serverData>
-      <paths name="marry_html">
+      <paths name="46.63.24.113:1222">
         <serverdata>
           <mappings>
-            <mapping deploy="/evol" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/home/iraqez/evol" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
     </serverData>
-    <option name="myUploadOnCheckinName" value="marry_html" />
+    <option name="myUploadOnCheckinName" value="46.63.24.113:1222" />
   </component>
 </project>
