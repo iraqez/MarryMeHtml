@@ -50,7 +50,8 @@ dl dt {
 
 .clearfix {
     display: block;
-    zoom: 1
+    zoom: 1;
+    width: 250px;
 }
 
 ul#thumblist {

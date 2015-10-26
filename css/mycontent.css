@@ -11,10 +11,25 @@
     padding-right: 25px;
 }
 
+#tovar {
+    width: 600px;
+
+}
+
+
+.galereya {
+    width: 280px;
+    float: left;
+}
+
+.text_tovar {
+    width: 150px;
+    float: left;
+}
+
 #mycontent {
     width: 630px;
     float: left;
-    /*padding-left: 15px;*/
     padding-right: 15px;
 }
 

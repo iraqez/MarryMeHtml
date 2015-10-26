@@ -9,6 +9,7 @@
     height: 300px;
     font-size: 13px;
     font-family: "Times New Roman", Times, serif;
+    float: left;
 }
 
 section {
@@ -32,27 +33,6 @@ label {
     font-size: 14px;
 }
 
-/*label:before {
-    font-family: fontawesome;
-    font-weight: normal;
-    margin-right: 10px;
-}
-
-label[for*='1']:before {
-    /!*content: '\f1cb';*!/
-}
-
-label[for*='2']:before {
-    /!*content: '\f17d';*!/
-}
-
-label[for*='3']:before {
-    /!*content: '\f16b';*!/
-}
-
-label[for*='4']:before {
-    /!*content: '\f1a9';*!/
-}*/
 
 label:hover {
     color: #888;
