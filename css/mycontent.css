@@ -36,6 +36,12 @@
     font-size: 18px;
 }
 
+.text_tovar p {
+    color: #17127a;
+    font-size: 12px;
+    font-family: "Times New Roman", Times, serif;
+}
+
 #mycontent {
     width: 630px;
     float: left;
