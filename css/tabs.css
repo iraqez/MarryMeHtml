@@ -12,17 +12,17 @@
     float: left;
 }
 
-section {
+.tabs section {
     display: none;
     padding: 20px;
     border-top: 1px solid #ddd;
 }
 
-input {
+.tabs input {
     display: none;
 }
 
-label {
+.tabs label {
     display: inline-block;
     margin: 0 0 -1px;
     padding: 15px 25px;
@@ -34,22 +34,22 @@ label {
 }
 
 
-label:hover {
+.tabs label:hover {
     color: #888;
     cursor: pointer;
 }
 
-input:checked + label {
+.tabs input:checked + label {
     color: #555;
     border: 1px solid #ddd;
     border-top: 2px solid #fcc9fc;
     border-bottom: 1px solid #fff;
 }
 
-#tab1:checked ~ #content1,
-#tab2:checked ~ #content2,
-#tab3:checked ~ #content3,
-#tab4:checked ~ #content4 {
+.tabs #tab1:checked ~ #content1,
+.tabs #tab2:checked ~ #content2,
+.tabs #tab3:checked ~ #content3,
+.tabs #tab4:checked ~ #content4 {
     display: block;
 }
 

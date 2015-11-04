@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="PublishConfigData" serverName="46.63.24.113:1222" uploadOnCheckin="58595dc6-251b-4bc9-b95d-9b9f589edc37">
-    <serverData>
-      <paths name="46.63.24.113:1222">
-        <serverdata>
-          <mappings>
-            <mapping deploy="/home/iraqez/evol" local="$PROJECT_DIR$" web="/" />
-          </mappings>
-        </serverdata>
-      </paths>
-    </serverData>
     <option name="myUploadOnCheckinName" value="46.63.24.113:1222" />
   </component>
 </project>
